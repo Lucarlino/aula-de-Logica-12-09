@@ -1,3 +1,6 @@
+import os 
+os.system("cls")
+
 while True:
     nome = input("Digite seu nome ou aperte a tecla 'X' para sair ")
     if nome == "x" or nome == "X":
